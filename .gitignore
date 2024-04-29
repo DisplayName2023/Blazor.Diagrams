@@ -1,1 +1,8 @@
 Diagram/_other.cs
+/Diagram/bin/Debug/net6.0
+/.vs
+/Diagram/obj
+/TestProject_ClientSide
+/TestProject_Components
+/TestProject_ServerSide
+/Tests_Blazor.Diagrams/obj
